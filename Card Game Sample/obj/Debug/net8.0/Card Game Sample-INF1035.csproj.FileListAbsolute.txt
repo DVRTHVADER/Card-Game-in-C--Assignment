@@ -1,0 +1,14 @@
+/Users/deviiilsaint/Desktop/Card Game Sample/bin/Debug/net8.0/Card Game Sample-INF1035
+/Users/deviiilsaint/Desktop/Card Game Sample/bin/Debug/net8.0/Card Game Sample-INF1035.deps.json
+/Users/deviiilsaint/Desktop/Card Game Sample/bin/Debug/net8.0/Card Game Sample-INF1035.runtimeconfig.json
+/Users/deviiilsaint/Desktop/Card Game Sample/bin/Debug/net8.0/Card Game Sample-INF1035.dll
+/Users/deviiilsaint/Desktop/Card Game Sample/bin/Debug/net8.0/Card Game Sample-INF1035.pdb
+/Users/deviiilsaint/Desktop/Card Game Sample/obj/Debug/net8.0/Card Game Sample-INF1035.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deviiilsaint/Desktop/Card Game Sample/obj/Debug/net8.0/Card Game Sample-INF1035.AssemblyInfoInputs.cache
+/Users/deviiilsaint/Desktop/Card Game Sample/obj/Debug/net8.0/Card Game Sample-INF1035.AssemblyInfo.cs
+/Users/deviiilsaint/Desktop/Card Game Sample/obj/Debug/net8.0/Card Game Sample-INF1035.csproj.CoreCompileInputs.cache
+/Users/deviiilsaint/Desktop/Card Game Sample/obj/Debug/net8.0/Card Game Sample-INF1035.dll
+/Users/deviiilsaint/Desktop/Card Game Sample/obj/Debug/net8.0/refint/Card Game Sample-INF1035.dll
+/Users/deviiilsaint/Desktop/Card Game Sample/obj/Debug/net8.0/Card Game Sample-INF1035.pdb
+/Users/deviiilsaint/Desktop/Card Game Sample/obj/Debug/net8.0/Card Game Sample-INF1035.genruntimeconfig.cache
+/Users/deviiilsaint/Desktop/Card Game Sample/obj/Debug/net8.0/ref/Card Game Sample-INF1035.dll
